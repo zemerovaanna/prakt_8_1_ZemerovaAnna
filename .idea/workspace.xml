@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e8820d-b438-41e8-8e35-2b6c3d60d6b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practiceEight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/Exam.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/MilkProduct.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/optinFive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/optionFifteen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exam.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MilkProduct.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/fifteen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/five.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/Exam.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/1Exam.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/MilkProduct.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/1MilkProduct.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -44,12 +37,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="" />
